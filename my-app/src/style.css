@@ -1,0 +1,59 @@
+.ui.borderless.topmenu.menu {
+  box-shadow: none;
+  border: none;
+  padding-bottom: -50px;
+}
+
+.ui.borderless.middlemenu.menu {
+  box-shadow: none;
+  border: none;
+
+}
+
+.header-bar {
+  min-height: 10px;
+  background: #006341;
+}
+
+#logo {
+  width: 100px;
+  height: 100px;
+}
+
+.footer-background {
+  color: Black;
+  padding: 20px;
+  font-size: 18px;
+}
+
+.ui.borderless.downmenu.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.starbucks-background {
+  background: url(//globalassets.starbucks.com/assets/1ffac5b8ba354956bc68828bd50d5440.jpg) no-repeat center center;
+  background-size: cover;
+  height: 600px;
+}
+
+
+#left-txt {
+  font-family: monospace;
+  margin-top: -100px;
+  font-size: 40px;
+  padding:200px 50px 10px 20px;
+  color: white;
+}
+
+#right-txt {
+  font-family: Open-Sans;
+  margin-top:20px;
+  font-size: 20px;
+  padding: 10px 10px 10px 20px;
+  color: white;
+}
+
+#button {
+  margin-top: 20px;
+}
